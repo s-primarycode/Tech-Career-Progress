@@ -1,4 +1,4 @@
-# freecodecamp-progress
+# Tech Career Progress
 Course: https://www.freecodecamp.org/learn/full-stack-developer/#workshop-curriculum-outline
 
 # freeCodeCamp Full Stack Developer Progress
