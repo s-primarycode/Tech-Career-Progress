@@ -22,4 +22,4 @@
 
 ---
 
-Last updated: **December 1, 2025**
+Last updated: **December 5, 2025**
