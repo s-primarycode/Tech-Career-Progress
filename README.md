@@ -26,9 +26,7 @@
         - Started to turn old Thinkpad into a homelab (have to change the thermal paste)
     - Day 18 (12/18/25)
         - Started looking into learning Java
-    - Day 19 (12/19/25)
-        -   
     
 ---
 
-Last updated: **December 9, 2025**
+Last updated: **December 20, 2025**
