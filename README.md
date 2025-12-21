@@ -26,6 +26,11 @@
         - Started to turn old Thinkpad into a homelab (have to change the thermal paste)
     - Day 18 (12/18/25)
         - Started looking into learning Java
+    - Day 19 (12/19/20)
+        - Started with a Number Randomizer tutorial, but quit due to Java not working properly on VScode
+    - Day 20 (12/20/25)
+        - Successfully installed Java onto VScode
+        - Started on a Black Jack game tutorial
     
 ---
 
