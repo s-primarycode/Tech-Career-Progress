@@ -26,7 +26,7 @@
         - Started to turn old Thinkpad into a homelab (have to change the thermal paste)
     - Day 18 (12/18/25)
         - Started looking into learning Java
--**Java** 
+- **Learning Java** 
 - Day 19 (12/19/20) - **Quit CS50 (At least for now)**
     **- Pivoted to Java** 
     - Started with a Number Randomizer tutorial, but quit due to Java not working properly on VScode
@@ -39,4 +39,4 @@
 ---
 
 - Make one of these READme's per month
-Last updated: **December 22, 2025**
+- Last updated: **December 22, 2025**
