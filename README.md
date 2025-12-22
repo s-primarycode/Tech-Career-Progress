@@ -36,5 +36,5 @@
 - Day 22 (12/22/25)
     
 ---
-
+Make one of these READme's per month
 Last updated: **December 22, 2025**
