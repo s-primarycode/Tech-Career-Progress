@@ -38,8 +38,12 @@
     - Quit reading *Building Java Programs, Third Edition* (Too inexperienced) 
     - Started **https://javabook.mccue.dev/**
     - Completed Section 1 (Prelude) up until Section 2.5 (Install Java)
+- Day 23 (12/23/25)
+    - Installed Eclipse 
+- Day 24 (12/24/25)
+    - Watched *Learn Java in 14 Minutes (seriously)* by Alex Lee
 
 ---
 
 - Make one of these READme's per month
-- Last updated: **December 22, 2025**
+- Last updated: **December 24, 2025**
