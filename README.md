@@ -33,8 +33,11 @@
 - Day 20 (12/20/25)
     - Successfully installed Java onto VScode
     - Started on a Black Jack game tutorial (Quit)
-    - Read through pages 7 - 16 of **Building Java Programs, Third Edition**
+    - Read through pages 7 - 16 of *Building Java Programs, Third Edition*
 - Day 22 (12/22/25)
+    - Quit reading *Building Java Programs, Third Edition* (Too inexperienced) 
+    - Started **https://javabook.mccue.dev/**
+    - Completed Section 1 (Prelude) up until Section 2.5 (Install Java)
 
 ---
 
