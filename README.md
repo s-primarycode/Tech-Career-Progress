@@ -43,8 +43,8 @@
 - Day 24 (12/24/25)
     - Christmas Eve
 - Day 25 (12/25/25)
-
+    - Christmas Day
 ---
 
 - Make one of these READme's per month
-- Last updated: **December 24, 2025**
+- Last updated: **December 26, 2025**
