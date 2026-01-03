@@ -1,6 +1,6 @@
-#Coding Progress
+# Coding Progress
 
-#Tracking my progress
+# Tracking my progress
 ---
 
 ## Completed/Working on list
