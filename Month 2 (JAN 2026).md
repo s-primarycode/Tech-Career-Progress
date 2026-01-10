@@ -9,3 +9,5 @@
   - Finished 4th ep. of Bro code's Java playlist
 - Day 38 (1/7/26)
   - Transition to C
+- Day 40 (1/9/26)
+  - Started on Lecture 0
