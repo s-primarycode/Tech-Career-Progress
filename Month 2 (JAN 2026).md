@@ -19,3 +19,5 @@
   - Finished Problem Set 0
 - Day 44 (1/13/26)
   - 1/3 of the way done with Lecture 1
+- Day 45 (1/14/26)
+  - Watch a bit of Lecture 1 
