@@ -24,3 +24,4 @@
 - Day 46 (1/15/26)
   - Completed Hello, World
   - Completed and submitted Hello, It's Me
+  - Started on mario-more, moved on to mario-less, due to less experience
