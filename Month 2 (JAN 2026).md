@@ -21,3 +21,6 @@
   - 1/3 of the way done with Lecture 1
 - Day 45 (1/14/26)
   - Watch a bit of Lecture 1 
+- Day 46 (1/15/26)
+  - Completed Hello, World
+  - Completed and submitted Hello, It's Me
